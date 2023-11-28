@@ -9,8 +9,8 @@ import (
 
 var users = []models.User{
 	models.User{
-		Nickname: "Steven victor",
-		Email:    "steven@gmail.com",
+		Nickname: "Abdul Either",
+		Email:    "abdul@gmail.com",
 		Password: "password",
 	},
 	models.User{

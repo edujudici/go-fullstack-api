@@ -97,8 +97,8 @@ func seedUsers() ([]models.User, error) {
 	}
 	users := []models.User{
 		models.User{
-			Nickname: "Steven victor",
-			Email:    "steven@gmail.com",
+			Nickname: "Abdul Either",
+			Email:    "abdul@gmail.com",
 			Password: "password",
 		},
 		models.User{
@@ -167,8 +167,8 @@ func seedUsersAndPosts() ([]models.User, []models.Post, error) {
 	}
 	var users = []models.User{
 		models.User{
-			Nickname: "Steven victor",
-			Email:    "steven@gmail.com",
+			Nickname: "Abdul Either",
+			Email:    "abdul@gmail.com",
 			Password: "password",
 		},
 		models.User{
